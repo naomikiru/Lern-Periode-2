@@ -1,4 +1,4 @@
-![image](https://github.com/naomikiru/Lern-Periode-2/assets/142885893/965397ad-eaf1-40a9-a174-83c470292ee0)# Lern-Periode-2
+# Lern-Periode-2
 
 # Grob Planung
 
