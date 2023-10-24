@@ -27,5 +27,5 @@ Ich habe heute am Modul 431 weiter gearbeitet, da wir morgen alle Aufträge abge
 - [ ] Aufträge im Modul 431 fertig machen
 - [ ] Expertenziele machen
 - [ ] Ein neues Projekt für nächste woche ausdenken
-- [ ] 
+- [ ] -
    
