@@ -37,7 +37,7 @@ Ich habe heute am Modul 431 weiter gearbeitet, da wir morgen alle Aufträge abge
 ## Zusammenfassung
 
 Ich habe heute angefangen einen kleinen Programm zu programmieren. Er funktioniert wie ein "Rechner". Ich habe mich für den "Rechner" entschieden, weil ich es für ein Video Game benutzen kann. Das Programm fragt dem Benutzer, wie viele Spiele/Matches man gespielt hat. Danach müssen wir pro Spiel/Match eingeben wie viele Punkte/Runden wir und die Gegner haben. Das Programm wird dann "ausrechnen" wer gewonnen hat. 
-Ich hatte jedoch ein paar Problemen für den letzten Teil gehabt, wo das Programm "ausrechnen" wird wer gewonnen hat. Ich habe das Programm noch nicht fertig programmiert. 
+Ich hatte jedoch ein paar Problemen für den letzten Teil gehabt, wo das Programm "ausrechnen" wird wer gewonnen hat. Ich habe das Programm noch nicht fertig programmiert. (90)
 
 
 ## Arbeitspackete für 07.11.2023
@@ -55,3 +55,14 @@ Ich hatte jedoch ein paar Problemen für den letzten Teil gehabt, wo das Program
 ## Grob Planung
 
 Ich werde heute versuchen die kleinen Problemen in mein Programm zu entfernen und noch meine Ideen rein zu tun. Ich werde auch noch versuchen das Programm fertig zu programmieren und das dritte Arbeitspacket von letzter Woche abzuschliessen. (37) 
+
+## Zusammenfassung
+
+Ich habe heute an das Programm weiter gearbeitet. Das Program funktioniert jetzt aber es gibt immer noch ein paar Fehler drinnen. Im Code ist nichts fallsch. Ich muss nur paar Sachen unschreiben, da das Programm alles richtig sieht. Das Programm funktioniert gut, aber beim letzten Teil gibt es die falschen Lösungen raus. Das Programm sieht nur eine Lösung als richtig und gibt am schluss nur die Zahl 1 bei richtig aus, obwohl es mehrere richtige Lösungen hat. (77)
+
+
+## Arbeitspackete für 14.11.2023
+
+- [ ] Verschiedene Varianten -> für 2 Teams usw.
+- [ ] Weitere Felher aufheben
+- [ ] Programm fertig programmieren
