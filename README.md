@@ -66,3 +66,18 @@ Ich habe heute an das Programm weiter gearbeitet. Das Program funktioniert jetzt
 - [ ] Verschiedene Varianten -> für 2 Teams usw.
 - [ ] Weitere Felher aufheben
 - [ ] Programm fertig programmieren
+
+
+
+
+## 14.11.2023
+
+## Zusammenfassung
+
+Ich habe heute am Programmier-Projekt weiter gearbeitet. Das Programmier-Projekt ist ein Zufallsgenerator, das Wörter/Iden für eine Geschichte generiert. Man kann beliebig viel mal neu generieren, wenn man die zufällig generierten Wörter nicht mag. Es gab soweit keine Probleme, aber wir suchen eine Lösung für einen kleinen Teil im Code, den wir verkleinen können. Heute habe ich aber nicht an mein eigenes Projekt gearbeitet, da wir an unserem Programmier-Projekt arbeiten wollten. (70)
+
+## Arbeitspackete für 24.11.2023
+
+- [ ] Programm fertig programmieren
+- [ ] Fehler beheben
+- [ ] Am Programmier-Projekt weiter arbeiten
