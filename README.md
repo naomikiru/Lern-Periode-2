@@ -76,8 +76,20 @@ Ich habe heute an das Programm weiter gearbeitet. Das Program funktioniert jetzt
 
 Ich habe heute am Programmier-Projekt weiter gearbeitet. Das Programmier-Projekt ist ein Zufallsgenerator, das Wörter/Iden für eine Geschichte generiert. Man kann beliebig viel mal neu generieren, wenn man die zufällig generierten Wörter nicht mag. Es gab soweit keine Probleme, aber wir suchen eine Lösung für einen kleinen Teil im Code, den wir verkleinen können. Heute habe ich aber nicht an mein eigenes Projekt gearbeitet, da wir an unserem Programmier-Projekt arbeiten wollten. (70)
 
-## Arbeitspackete für 24.11.2023
+## Arbeitspackete für 21.11.2023
 
 - [ ] Programm fertig programmieren
 - [ ] Fehler beheben
 - [ ] Am Programmier-Projekt weiter arbeiten
+
+
+## 21.11.2023 
+
+# Keinen Eintrag
+
+Ich habe für 21.11.2023 keinen Eintrag, weil ich vergessen habe die hier auf GitHub festzuhalten.
+
+
+
+## 28.11.2023
+
