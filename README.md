@@ -97,7 +97,7 @@ Ich habe für 21.11.2023 keinen Eintrag, weil ich vergessen habe die hier auf Gi
 
 (Für letzte Woche: Letzte Woche habe ich an das Progammier-Projekt weiter gemacht. Ich habe 2 Zufallsgeneratoren programmiert, da unser ganzer Projekt aus mehreren Generatoren bestehen. Beim Programmieren sind keine Probleme aufgetaucht, da ich mit meinen Kollegen zusammen durch das Live-Share gearbeitet haben.)
 
-Heute habe ich an mein Projekt weiter gearbeitet. Ich habe weiter programmier und konnte auch noch die Problemen vor 2 Wochen lösen, aber beim weitermachen sind weitere Probleme aufgetaucht. Ich könnte aber das Programm noch nicht fertig machen. (80)
+Heute habe ich an mein Projekt weiter gearbeitet. Ich habe weiter programmier und konnte auch noch die Problemen vor 2 Wochen lösen, aber beim weitermachen sind weitere Probleme aufgetaucht. Ich könnte aber das Programm noch nicht fertig machen. Ich habe heute auch meine Auftrage für das Modul 162 fertig gemacht. (92)
 
 ## Arbeitspackete für 05.12.2023
 
