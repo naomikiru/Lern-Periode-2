@@ -110,4 +110,9 @@ Heute habe ich an mein Projekt weiter gearbeitet. Ich habe weiter programmier un
 
 ## Zusammenfassung
 
-Ich habe heute den Rechner Programm fertig gestellt. Es ist ein Rechner, es rechnet aus wie viele Spiele man gewonnen hat. Die gewonnenen Spiele hängen von gewonnenen Runden ab. Ich hatte noch Hilfe vom Lehrer bekommen. Wir haben zusammen den Fehler herausgefunden nud behoben. Heute habe ich auch noch ein paar Aufträge für die Schule gemacht. 
+Ich habe heute den Rechner Programm fertig gestellt. Es ist ein Rechner, es rechnet aus wie viele Spiele man gewonnen hat. Die gewonnenen Spiele hängen von gewonnenen Runden ab. Ich hatte noch Hilfe vom Lehrer bekommen. Wir haben zusammen den Fehler herausgefunden nud behoben. Heute habe ich auch noch ein paar Aufträge für die Schule gemacht. Die Aufträgen waren Hausaufgaben und auch noch eine Gruppenarbeit.
+
+## Arbeitspackete für 12.12.2023
+
+- [ ] AoC Tag 2 probieren zu lösen
+- [ ] Andere ApC Aufgaben zu lösen falls ich mit Tag 2 fertig werde
