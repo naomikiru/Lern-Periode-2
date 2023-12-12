@@ -116,3 +116,14 @@ Ich habe heute den Rechner Programm fertig gestellt. Es ist ein Rechner, es rech
 
 - [ ] AoC Tag 2 probieren zu lösen
 - [ ] Andere ApC Aufgaben zu lösen falls ich mit Tag 2 fertig werde
+
+## 12.12.2023
+
+## Zusammenfassung
+
+Ich habe heute mit dem AoC tag 2 angefangen, aber nicht fertig gemacht, weil ich am Anfang richtig verwirrt war. Aber danach habe ich es verstanden und angefangen. Ich habe noch für einen Wirtschaft Test gelernt und Englisch auch kurz angeschaut weil ich einen Wirtschaft Test und Englisch Test am Nachmittag habe. Ich habe auch noch den Auftrag mit den Repetitionen für den Modul 162 gemacht, weil der Test am Mittwoch ist. (72)
+
+## Arbeitspakete für den 19.12.2023
+- [ ] AoC Tag 2, weiter lösen
+- [ ] AoC Tag 2, Fehler suchen und beheben
+- [ ] Andere ApC Aufgaben zu lösen falls ich mit Tag 2 fertig werde
