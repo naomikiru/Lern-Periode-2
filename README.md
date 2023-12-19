@@ -127,3 +127,8 @@ Ich habe heute mit dem AoC tag 2 angefangen, aber nicht fertig gemacht, weil ich
 - [ ] AoC Tag 2, weiter lösen
 - [ ] AoC Tag 2, Fehler suchen und beheben
 - [ ] Andere ApC Aufgaben zu lösen falls ich mit Tag 2 fertig werde
+
+
+## 19.12.2023
+
+## Zusammenfassung
