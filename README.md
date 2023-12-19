@@ -132,3 +132,11 @@ Ich habe heute mit dem AoC tag 2 angefangen, aber nicht fertig gemacht, weil ich
 ## 19.12.2023
 
 ## Zusammenfassung
+
+Heute habe ich nicht am AoC Tag 2 weitergemacht, da ich später wie 7.30 aufgestanden bin. Statt am AoC Tag 2 weiterzumachen, habe ich für eine Präsentation gelernt, die am Nachmittag stattfinden wird. Ich habe mein Text und Kärtchen erstellt, damit ich auf die Kärtchen schauen kann falls ich mein Text vergessen habe. (53)
+
+## Arbeitspakete für 09.01.2024
+- [ ] AoC Tag 2, weiter lösen
+- [ ] AoC Tag 2, Fehler suchen und beheben
+- [ ] Andere ApC Aufgaben zu lösen falls ich mit Tag 2 fertig werde
+
